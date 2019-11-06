@@ -5,11 +5,11 @@ This is the demonstration page of the **BiFF**.
 # Demos
 
 Fuzzing Under Different Architectures:
-- ![Intel X64 Demo Link](https://www.bilibili.com/video/av74741732/)
-- ![Intel X32](https://www.bilibili.com/video/av74745375/)
-- ![ARM32](https://www.bilibili.com/video/av74741855/)
-- ![ARM64](updating...)
-- ![MIPS32](updating...)
+- [Intel X64 Demo Link](https://www.bilibili.com/video/av74741732/)
+- [Intel X32](https://www.bilibili.com/video/av74745375/)
+- [ARM32](https://www.bilibili.com/video/av74741855/)
+- ARM64 (updating...)
+- MIPS32 (updating...)
 
 Fuzzing Native Library of Android:
 - Demo App (updating...)
