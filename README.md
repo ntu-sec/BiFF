@@ -26,14 +26,21 @@ Here lists full of them.
   <img src="./pics/podofopdfinfo_overall-edge-time.png" width="400" title="Coverage Over Time" /> 
 </p>
 
-![podofopdfinfo crash](./pics/podofopdfinfo_overall-crash-time.png "crash over time") ![podofopdfinfo coverage](./pics/podofopdfinfo_overall-edge-time.png "coverage over time")
-
 ## cxxfilt
-![cxxfilt crash](./pics/cxxfilt_overall-crash-time.png) ![cxxfilt coverage](./pics/cxxfilt_overall-edge-time.png)
+<p float="left">
+  <img src="./pics/cxxfilt_overall-crash-time.png" width="400" title="Crash Over Time" />
+  <img src="./pics/cxxfilt_overall-edge-time.png" width="400" title="Coverage Over Time" /> 
+</p>
 
 ## nm
-![nm crash](./pics/nm_overall-crash-time.png) ![nm coverage](./pics/nm_overall-edge-time.png)
+<p float="left">
+  <img src="./pics/nm_overall-crash-time.png" width="400" title="Crash Over Time" />
+  <img src="./pics/nm_overall-edge-time.png" width="400" title="Coverage Over Time" /> 
+</p>
 
 ## mjs
-![mjs crash](./pics/mjs_overall-crash-time.png) ![mjs coverage](./pics/mjs_overall-edge-time.png)
+<p float="left">
+  <img src="./pics/mjs_overall-crash-time.png" width="400" title="Crash Over Time" />
+  <img src="./pics/mjs_overall-edge-time.png" width="400" title="Coverage Over Time" /> 
+</p>
 
