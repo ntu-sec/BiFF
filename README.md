@@ -21,18 +21,14 @@ Due to the page limiation of the paper, we only show the 3 of 4 benchmark progra
 Here lists full of them.
 
 ## podofopdfinfo
-![podofopdfinfo crash](./pics/podofopdfinfo_overall-crash-time.png)
-![podofopdfinfo coverage](./pics/podofopdfinfo_overall-edge-time.png)
+![podofopdfinfo crash](./pics/podofopdfinfo_overall-crash-time.png) ![podofopdfinfo coverage](./pics/podofopdfinfo_overall-edge-time.png)
 
 ## cxxfilt
-![cxxfilt crash](./pics/cxxfilt_overall-crash-time.png)
-![cxxfilt coverage](./pics/cxxfilt_overall-edge-time.png)
+![cxxfilt crash](./pics/cxxfilt_overall-crash-time.png) ![cxxfilt coverage](./pics/cxxfilt_overall-edge-time.png)
 
 ## nm
-![nm crash](./pics/nm_overall-crash-time.png)
-![nm coverage](./pics/nm_overall-edge-time.png)
+![nm crash](./pics/nm_overall-crash-time.png) ![nm coverage](./pics/nm_overall-edge-time.png)
 
 ## mjs
-![mjs crash](./pics/mjs_overall-crash-time.png)
-![mjs coverage](./pics/mjs_overall-edge-time.png)
+![mjs crash](./pics/mjs_overall-crash-time.png) ![mjs coverage](./pics/mjs_overall-edge-time.png)
 
