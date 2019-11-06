@@ -6,8 +6,8 @@ This is the demonstration page of the **BiFF**.
 
 Fuzzing Under Different Architectures:
 - [Intel X64 Demo Link](https://www.bilibili.com/video/av74741732/)
-- [Intel X32](https://www.bilibili.com/video/av74745375/)
-- [ARM32](https://www.bilibili.com/video/av74741855/)
+- [Intel X32 Demo Link](https://www.bilibili.com/video/av74745375/)
+- [ARM32 Demo Link](https://www.bilibili.com/video/av74741855/)
 - ARM64 (updating...)
 - MIPS32 (updating...)
 
