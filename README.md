@@ -18,7 +18,10 @@ Fuzzing Native Library of Android:
 # Full Evaluation Result
 
 Due to the page limiation of the paper, we only show the 3 of 4 benchmark programs' testing results.
+
 Here lists full of them.
+
+And what's more, the result images showed here are drawn with the 95% confidence interval (which is a statistical metric).
 
 ## podofopdfinfo
 <p float="left">
