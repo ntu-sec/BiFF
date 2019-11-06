@@ -22,8 +22,8 @@ Here lists full of them.
 
 ## podofopdfinfo
 <p float="left">
-  <img src="./pics/podofopdfinfo_overall-crash-time.png" width="100" />
-  <img src="./pics/podofopdfinfo_overall-edge-time.png" width="100" /> 
+  <img src="./pics/podofopdfinfo_overall-crash-time.png" width="400" />
+  <img src="./pics/podofopdfinfo_overall-edge-time.png" width="400" /> 
 </p>
 
 ![podofopdfinfo crash](./pics/podofopdfinfo_overall-crash-time.png "crash over time") ![podofopdfinfo coverage](./pics/podofopdfinfo_overall-edge-time.png "coverage over time")
