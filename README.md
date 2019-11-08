@@ -9,7 +9,6 @@ Fuzzing Under Different Architectures:
 - [Intel X32 Demo Link](https://www.bilibili.com/video/av74745375/)
 - [ARM32 Demo Link](https://www.bilibili.com/video/av74741855/)
 - [ARM64 Demo Link](https://www.bilibili.com/video/av74749173/)
-- MIPS32 (will release soon...)
 
 Fuzzing Native Library of Android:
 - [Demo Apk Link](https://www.bilibili.com/video/av74930492/), 
