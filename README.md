@@ -11,8 +11,7 @@ Fuzzing Under Different Architectures:
 - [ARM64 Demo Link](https://www.bilibili.com/video/av74749173/)
 
 Fuzzing Native Library of Android:
-- [Demo Apk Link](https://www.bilibili.com/video/av74930492/), 
-    - MENTION: the video may under auditing of the bilibili website, should be availble in hours
+- [Demo Apk Link](https://www.bilibili.com/video/av74930492/)
 
 # Full Evaluation Result
 
