@@ -12,7 +12,8 @@ Fuzzing Under Different Architectures:
 - MIPS32 (will release soon...)
 
 Fuzzing Native Library of Android:
-- [Demo Apk Link](https://www.bilibili.com/video/av74930492/)
+- [Demo Apk Link](https://www.bilibili.com/video/av74930492/), 
+    - MENTION: the video may under auditing of the bilibili website, should be availble in hours
 
 # Full Evaluation Result
 
