@@ -1,6 +1,6 @@
 # Intro
 
-This is the demonstration page of the **BiFF**.
+This is the demonstration page of the **BiFF** to show complementary information of the submission.
 
 # Demos
 
